@@ -1,0 +1,11 @@
+{
+  "name": "objective_1",
+  "version": "1.0.0",
+  "description": "Bewica objective 1 ",
+  "main": "objective1.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Costas Christodoulou",
+  "license": "ISC"
+}
