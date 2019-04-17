@@ -1,0 +1,14 @@
+{
+  "name": "objective2",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Costas Christooulou <costas1379@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node objective2.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
