@@ -24,7 +24,6 @@ const  passwordCheck = (pass)=>{
 const PORT = 8080;
 const HOST = '0.0.0.0';
 
-// App
 var app = express();
 app.use(bodyParser.json());
 app.get('/password_check', (req, res) => {
